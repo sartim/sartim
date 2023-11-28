@@ -2,7 +2,7 @@
 
 ---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sartim&show_icons=true&hide=contribs,issues&card_width=1080)](https://github.com/sartim)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sartim&show_icons=true&hide=contribs,issues&card_width=1080&rank_icon=github)](https://github.com/sartim)
 
 ---
 
