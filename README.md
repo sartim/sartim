@@ -1,12 +1,22 @@
+### Hello there 👋
+
 <div align="">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sartim)](https://git.io/streak-stats)
+
+---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sartim)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&layout=compact)](https://github.com/sartim)
 
-<hr>
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Python" width="40" height="40"/>&nbsp;
