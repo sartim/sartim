@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="300"/>
 </div>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sartim)](https://git.io/streak-stats)
+
+<hr>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Python" width="40" height="40"/>&nbsp;
