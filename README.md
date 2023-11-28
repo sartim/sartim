@@ -1,12 +1,12 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sartim)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sartim&card_width=1080)](https://github.com/sartim)
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sartim)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sartim&show_icons=true&hide=contribs,issues&card_width=1080)](https://github.com/sartim)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&layout=compact)](https://github.com/sartim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&layout=compact&card_width=1080)](https://github.com/sartim)
 
 ---
 
