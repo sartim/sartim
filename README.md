@@ -1,5 +1,5 @@
-[![GitHub Streak - Dark](https://streak-stats.demolab.com/?user=sartim&card_width=1080&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/sartim#gh-dark-mode-only)
-[![GitHub Streak - Dark](https://streak-stats.demolab.com/?user=sartim&card_width=1080&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/sartim#gh-light-mode-only)
+[![GitHub Streak - Dark](https://streak-stats.demolab.com/?user=sartim&card_width=1080&hide_border=true&mode=weekly&theme=dark#gh-dark-mode-only)](https://github.com/sartim#gh-dark-mode-only)
+[![GitHub Streak - Dark](https://streak-stats.demolab.com/?user=sartim&card_width=1080&hide_border=true&mode=weekly&theme=default#gh-light-mode-only)](https://github.com/sartim#gh-light-mode-only)
 
 ---
 
