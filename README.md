@@ -8,8 +8,8 @@
 
 ---
 
-[![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&langs_count=16&layout=compact&card_width=1080&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/sartim#gh-dark-mode-only)
-[![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&langs_count=16&layout=compact&card_width=1080&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/sartim#gh-light-mode-only)
+[![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&langs_count=12&layout=compact&card_width=1080&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/sartim#gh-dark-mode-only)
+[![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sartim&langs_count=12&layout=compact&card_width=1080&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/sartim#gh-light-mode-only)
 
 ---
 
